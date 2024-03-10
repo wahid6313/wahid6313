@@ -1,4 +1,4 @@
-<img align="center" alt="image not found" width="100%" height="200px" src="https://www.ecuadata.net/wp-content/uploads/2017/06/cosasdehackers.png">
+<img align="center" alt="image not found" width="100%" height="150px" src="https://restoreprivacy.com/wp-content/uploads/2024/01/access-dark-web-tor-network-safely.jpeg">
 <h1 align="center">Hi 👋, I'm Wahid ali</h1>
 <h3 align="center">A machine that turns coffee into code.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
